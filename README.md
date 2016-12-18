@@ -1,7 +1,7 @@
 Brunch with fruits
 ==================
 
-A [brunch.io](http://brunch.io/) skeleton based on [Backbone](http://backbonejs.org/), [Bootstrap](http://twitter.github.com/bootstrap/), [Handlebars](http://handlebarsjs.com/), [LESS](http://lesscss.org/) / [SASS](http://sass-lang.com/), [Mocha](http://visionmedia.github.io/mocha/) / [Chai](http://chaijs.com/).
+A [brunch.io](http://brunch.io/) skeleton based on [Backbone](http://backbonejs.org/), [Bootstrap](http://twitter.github.com/bootstrap/), [Handlebars](http://handlebarsjs.com/), [LESS](http://lesscss.org/) / [SASS](http://sass-lang.com/), [Mocha](http://mochajs.org/) / [Chai](http://chaijs.com/).
 
 * example of deployed [full-stack application](https://github.com/askalyuk/pay-periods-remaining)
 * application structure based on modules - each module is separated set of models, views, styles, templates etc.
